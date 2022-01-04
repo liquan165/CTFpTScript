@@ -13,3 +13,5 @@ setflag_win_linux:在windows与linux段生成flag文本，可以设置生成数�
 Xdecrypt:老版本xshell ssh密码碰撞脚本。
 
 Reveal password encrypted by MobaXterm:破解老版本 ssh密码碰撞脚本。
+
+msfhack：msf入侵17010方法包括开启3389创建用户建立反射上传目录等
