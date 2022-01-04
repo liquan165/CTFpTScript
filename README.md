@@ -1,4 +1,8 @@
-天融信战队常用的CTF主机攻防脚本 CTFpenetrationScript 是本人平时CTF攻防赛所需要的脚本。用于车联网、物联网和工业控制比赛场景。
+# 安全战队常用的CTF主机攻防脚本 CTFpenetrationScript 
+
+
+
+## __DebugBreak 四轮车战队 CTF攻防赛所需要的脚本：
 
 set_the_Flag:随机生成guid，并将以flag{guid}为名称的图片复制到windows目录下。
 
@@ -15,3 +19,12 @@ Xdecrypt:老版本xshell ssh密码碰撞脚本。
 Reveal password encrypted by MobaXterm:破解老版本 ssh密码碰撞脚本。
 
 msfhack：msf入侵17010方法包括开启3389创建用户建立反射上传目录等
+
+
+
+
+
+## 项目适用于：
+
+车联网安全攻防场景，主机安全攻防场景，工控安全场景，移动安全攻防场景等。
+
