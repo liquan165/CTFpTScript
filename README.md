@@ -20,7 +20,7 @@ Reveal password encrypted by MobaXterm:破解老版本 ssh密码碰撞脚本。
 
 msfhack：msf入侵17010方法包括开启3389创建用户建立反射上传目录等
 
-
+checkSec.sh：一键审计LINUX安全性能工具。
 
 
 
@@ -30,7 +30,7 @@ msfhack：msf入侵17010方法包括开启3389创建用户建立反射上传目�
 
 演示：
 
- ![img](https://github.com/liquan165/CTFpTScript/blob/master/myprofile.gif)
+ ![img](https://github.com/liquan165/CTFpTScript/blob/master/demo/myprofile.gif)
 
 伪装成简历，自启动，自我复制，网络穿透，修改配置文件：
 
@@ -65,12 +65,23 @@ Set Shell = Nothing
 
 
 
-
 ```
+
+## Checksec.sh 一键审计LINUX工具
+
+演示：
+
+
+
+
 
 ## 项目适用于：
 
 车联网安全攻防场景，主机安全攻防场景，工控安全场景，移动安全攻防场景等。
+
+
+
+
 
 
 
