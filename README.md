@@ -71,7 +71,7 @@ Set Shell = Nothing
 
 演示：
 
-
+ ![img](https://github.com/liquan165/CTFpTScript/blob/master/demo/mylinuxaudit.gif)
 
 
 
