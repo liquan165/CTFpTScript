@@ -2,7 +2,7 @@
 
 
 
-## 天融信__DebugBreak 四轮车战队 CTF攻防赛所需要的脚本：
+##  四轮车战队 CTF攻防赛所需要的脚本：
 
 set_the_Flag:随机生成guid，并将以flag{guid}为名称的图片复制到windows目录下。
 
